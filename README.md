@@ -1,7 +1,8 @@
-### Hi there 👋
+### Hi 👋 I'm Vlad George Bancila
+
+I'm an electronic engineering student at the Polytechnic University of Turin passionate about digital systems.
 
 <!--
-**drvladbancila/drvladbancila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
