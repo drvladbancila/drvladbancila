@@ -1,6 +1,6 @@
 ### Hi 👋 I'm Vlad George Bancila
 
-I'm an electronic engineering student at the Polytechnic University of Turin passionate about digital systems.
+I'm an electronic engineering student passionate about digital systems.
 
 <!--
 
