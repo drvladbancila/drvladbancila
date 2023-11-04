@@ -1,7 +1,4 @@
 ### Hi 👋 I'm Vlad George Bancila
-
-I'm an electronic engineering student passionate about digital systems.
-
 <!--
 
 Here are some ideas to get you started:
